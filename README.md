@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **https://e-z.bio/ry**
+- 📫 How to reach me **https://e-z.bio/neverlose**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
